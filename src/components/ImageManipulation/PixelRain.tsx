@@ -5,7 +5,7 @@ interface props {
 }
 
 const image1 = new Image();
-image1.src = "/alia.png";
+image1.src = process.env.PUBLIC_URL + "/alia.png";
 
 let isActive = false;
 
