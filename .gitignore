@@ -4,7 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
-
+pulbic/*.jpg
+pulbic/*.jpeg
+public/*.png
+public/*.icon
+public/*.txt
 # testing
 /coverage
 
